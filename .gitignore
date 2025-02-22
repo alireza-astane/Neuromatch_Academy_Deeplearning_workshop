@@ -22,3 +22,14 @@ W2/afhq_random_32x32/*
 
 W2/afhq/
 W2/afhq/*
+
+
+FashionMNIST/
+W2/FashionMNIST/
+W2/afhq_random_32x32.zip
+afhq/
+
+FashionMNIST/*
+W2/FashionMNIST/*
+
+afhq/*
